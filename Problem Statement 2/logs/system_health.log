@@ -1,0 +1,14 @@
+2024-09-21 19:35:55,576 - INFO - Starting system health check...
+2024-09-21 19:35:56,582 - WARNING - High Memory usage detected: 93.2%
+2024-09-21 19:35:56,585 - INFO - Total running processes: 273
+2024-09-21 19:35:56,585 - INFO - CPU Usage: 2.4%
+2024-09-21 19:35:56,586 - INFO - Memory Usage: 93.2%
+2024-09-21 19:35:56,586 - INFO - Disk Usage: 26.7%
+2024-09-21 19:35:56,586 - INFO - Running Processes: 273
+2024-09-21 19:36:01,835 - INFO - Starting system health check...
+2024-09-21 19:36:02,841 - WARNING - High Memory usage detected: 93.2%
+2024-09-21 19:36:02,846 - INFO - Total running processes: 273
+2024-09-21 19:36:02,847 - INFO - CPU Usage: 1.6%
+2024-09-21 19:36:02,848 - INFO - Memory Usage: 93.2%
+2024-09-21 19:36:02,848 - INFO - Disk Usage: 26.7%
+2024-09-21 19:36:02,848 - INFO - Running Processes: 273
